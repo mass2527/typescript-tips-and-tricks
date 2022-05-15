@@ -1,4 +1,4 @@
-# TypeScript tips and Tricks with Matt
+# TypeScript tips and Tricks
 
 reference:
 
